@@ -1,0 +1,11 @@
+print('test')
+print('test2')
+print(123)
+
+print('')
+print('  x')
+print(' xxx ')
+print('xxxxx')
+print('  x')
+print('  x')
+print('  x')
